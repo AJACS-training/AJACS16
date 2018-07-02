@@ -43,12 +43,12 @@
 ### [_](http://MotDB.DBCLS.jp/?AJACS16#o34879a4 "o34879a4") 内容  
 
 * 09:00 受付開始
-* 09:30-10:00　ライフサイエンス統合データベースプロジェクトとは？　川本祥子　[(発表1.pdf)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=Kawamoto_100310_NRIB_1.pdf&refer=AJACS16)、[(発表2.pdf)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=Kawamoto_100310_NRIB_2.pdf&refer=AJACS16)
+* 09:30-10:00　ライフサイエンス統合データベースプロジェクトとは？　川本祥子　[(発表1.pdf)](AJACS16_kawamoto1.pdf)、[(発表2.pdf)](AJACS16_kawamoto2.pdf)
 * 10:00-12:00　統合データベースの利用法　河野信
 
 * 12:00-13:00 昼休憩
 
 * 13:00-14:00　アグリバイオ分野でのバイオインフォマティクスの基礎と応用　河野信
 * 14:00-15:00　ゲノムアノテーションの実際と情報の可視化　岡本忍
-* 15:00-15:30　デジタルデータの共有に向けて　川本祥子 [(発表3.pdf)](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=Kawamoto_100310_NRIB_3.pdf&refer=AJACS16)
+* 15:00-15:30　デジタルデータの共有に向けて　川本祥子 [(発表3.pdf)](AJACS16_kawamoto3.pdf)
 * 15:30-16:00　質疑応答
